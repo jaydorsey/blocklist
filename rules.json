@@ -73,5 +73,10 @@
                     "process": "any",
                     "remote-domains": "crownpeak.com"
                 },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "kibey.com"
+                }
     ]
 }
