@@ -1,0 +1,77 @@
+{
+    "description": "Jay Dorsey's Little Snitch block list",
+    "name": "Jay Dorsey's Little Snitch block list",
+    "rules": [
+
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "peoplegas.com"
+                },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "doubleclick.net"
+                },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "scorecardresearch.com"
+                },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "mixpanel.com"
+                },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "mxpnl.com"
+                },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "segment.io"
+                },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "polldaddy.com"
+                },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "crowdsignal.com"
+                },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "facebook.com"
+                },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "facebook.net"
+                },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "pinterest.com"
+                },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "quora.com"
+                },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "evidon.com"
+                },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "crownpeak.com"
+                },
+    ]
+}
