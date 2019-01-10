@@ -77,6 +77,66 @@
                     "action": "deny",
                     "process": "any",
                     "remote-domains": "kibey.com"
+                },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "halison.net"
+                },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "procurement-india.org"
+                },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "taohl.top"
+                },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "sleepingyung.us"
+                },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "trumpcoinn.bid"
+                },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "qq.com"
+                },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "whishlesrvivl.bid"
+                },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "maternityweek.com"
+                },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "scribol.com"
+                }
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "mixingmolder.com"
+                },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "mylittle.link"
+                },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "everydayhealth.com"
                 }
     ]
 }
