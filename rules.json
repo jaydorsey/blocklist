@@ -152,6 +152,16 @@
                     "action": "deny",
                     "process": "any",
                     "remote-domains": "mydelphi.com"
+                },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "tklink.ru"
+                },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "mail2sandy.com"
                 }
     ]
 }
