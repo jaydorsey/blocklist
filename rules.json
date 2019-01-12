@@ -137,6 +137,21 @@
                     "action": "deny",
                     "process": "any",
                     "remote-domains": "everydayhealth.com"
+                },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "ma-nouvelle-piscine.fr"
+                },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "dateme.su"
+                },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "mydelphi.com"
                 }
     ]
 }
