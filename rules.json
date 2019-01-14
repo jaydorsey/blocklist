@@ -162,6 +162,22 @@
                     "action": "deny",
                     "process": "any",
                     "remote-domains": "mail2sandy.com"
+                },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "pardot.com"
+                },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "emltrk.com"
+                }
+                },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "mixingmolder.com"
                 }
     ]
 }
