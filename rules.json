@@ -179,5 +179,11 @@
                     "process": "any",
                     "remote-domains": "mixingmolder.com"
                 }
+                },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "i-harness.com"
+                }
     ]
 }
