@@ -184,6 +184,186 @@
                     "action": "deny",
                     "process": "any",
                     "remote-domains": "i-harness.com"
+                },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "esclick.me"
+                },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "snorcureing.us"
+                },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "memr3yhck.pro"
+                },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "fungusere.pro"
+                },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "degger.pro"
+                },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "viewforclos.pro"
+                },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "yandex.com"
+                },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "sirums.ac.ir"
+                },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "eskuvoshonlap.hu"
+                },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": ""
+                },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "altinkayalar.net"
+                },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "shahrtdc.com"
+                },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "business.site"
+                },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "getresponse.com"
+                },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "acidereflux-hq.com"
+                },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "naftometgroup.com"
+                },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "sophrologie-bressaclemaitre.com"
+                },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "asesorespericiales.es"
+                },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "pegsys.net"
+                },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "wanadoo.fr"
+                },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "marketpresage.com"
+                },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "pearlv.com"
+                },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "pinkescort.com"
+                },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "astrodyne.com"
+                },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "ilifedigital.solutions"
+                },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "abacnet.com"
+                },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "mangalbasi.net"
+                },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "prntscr.com"
+                },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "club-internet.fr"
+                },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "casinobonusguiden.com"
+                },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "mail2edwin.com"
+                },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "tjhtyt.com"
+                },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "omnitelvodafone.it"
+                },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "drmader.com"
+                },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "webkibris.com"
+                },
+                {
+                    "action": "deny",
+                    "process": "any",
+                    "remote-domains": "hoperfect.com"
                 }
     ]
 }
