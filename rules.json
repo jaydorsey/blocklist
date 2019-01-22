@@ -361,6 +361,51 @@
       "action": "deny",
       "process": "any",
       "remote-domains": "hoperfect.com"
+    },
+    {
+      "action": "deny",
+      "process": "any",
+      "remote-domains": "etinet.it"
+    },
+    {
+      "action": "deny",
+      "process": "any",
+      "remote-domains": "fredplaisanceaccastillage.com"
+    },
+    {
+      "action": "deny",
+      "process": "any",
+      "remote-domains": "asesorespericiales.es"
+    },
+    {
+      "action": "deny",
+      "process": "any",
+      "remote-domains": "gentechbulksms.com"
+    },
+    {
+      "action": "deny",
+      "process": "any",
+      "remote-domains": "ilovesamples.pro"
+    },
+    {
+      "action": "deny",
+      "process": "any",
+      "remote-domains": "tedsewood.us"
+    },
+    {
+      "action": "deny",
+      "process": "any",
+      "remote-domains": "u.to"
+    },
+    {
+      "action": "deny",
+      "process": "any",
+      "remote-domains": "slepdatn.bid"
+    },
+    {
+      "action": "deny",
+      "process": "any",
+      "remote-domains": "medecre.bid"
     }
   ]
 }
