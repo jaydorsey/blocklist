@@ -1,6 +1,6 @@
 # Jay Dorsey's Block List
 
-A set of rules for [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html)
+A set of rules for [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) (4.1 or higher)
 
 ## Installation
 
