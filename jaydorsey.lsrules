@@ -5,6 +5,16 @@
     {
       "action": "deny",
       "process": "any",
+      "remote-domains": "sup24x7.com"
+    },
+    {
+      "action": "deny",
+      "process": "any",
+      "remote-domains": "vadrugpills.com"
+    },
+    {
+      "action": "deny",
+      "process": "any",
       "remote-domains": "6in1car.bid"
     },
     {
