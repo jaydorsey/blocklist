@@ -5,6 +5,11 @@
     {
       "action": "deny",
       "process": "any",
+      "remote-domains": "buysub.com"
+    },
+    {
+      "action": "deny",
+      "process": "any",
       "remote-domains": "sup24x7.com"
     },
     {
