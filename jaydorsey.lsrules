@@ -820,6 +820,11 @@
     {
       "action": "deny",
       "process": "any",
+      "remote-domains": "link"
+    },
+    {
+      "action": "deny",
+      "process": "any",
       "remote-domains": "me"
     },
     {
