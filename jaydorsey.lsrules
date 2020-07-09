@@ -745,6 +745,21 @@
     {
       "action": "deny",
       "process": "any",
+      "remote-domains": "minkatu.com"
+    },
+    {
+      "action": "deny",
+      "process": "any",
+      "remote-domains": "vprza.com"
+    },
+    {
+      "action": "deny",
+      "process": "any",
+      "remote-domains": "udkcrj.com"
+    },
+    {
+      "action": "deny",
+      "process": "any",
       "remote-domains": "vendepublicidade.com.br"
     },
     {
