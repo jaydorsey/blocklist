@@ -5,6 +5,16 @@
     {
       "action": "deny",
       "process": "any",
+      "remote-domains": "specialattributes.s3.amazonaws.com"
+    },
+    {
+      "action": "deny",
+      "process": "any",
+      "remote-domains": "mobiletraits.s3.amazonaws.com"
+    },
+    {
+      "action": "deny",
+      "process": "any",
       "remote-domains": "casa"
     },
     {
