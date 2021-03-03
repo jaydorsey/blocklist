@@ -5,6 +5,11 @@
     {
       "action": "deny",
       "process": "any",
+      "remote-domains": "intrefacefm.com"
+    },
+    {
+      "action": "deny",
+      "process": "any",
       "remote-domains": "specialattributes.s3.amazonaws.com"
     },
     {
