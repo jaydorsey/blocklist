@@ -4,4 +4,4 @@ A set of rules for [Little Snitch](https://www.obdev.at/products/littlesnitch/in
 
 ## Installation
 
-Manually add the URL to [jaydorsey.lsrules](https://raw.githubusercontent.com/jaydorsey/little_snitch_rules/master/jaydorsey.lsrules) as a Rule Group Subscription
+Manually add the URL to [jaydorsey.lsrules](https://raw.githubusercontent.com/jaydorsey/little_snitch_rules/main/jaydorsey.lsrules) as a Rule Group Subscription
