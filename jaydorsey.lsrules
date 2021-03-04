@@ -5,6 +5,16 @@
     {
       "action": "deny",
       "process": "any",
+      "remote-domains": "marcosmora.com"
+    },
+    {
+      "action": "deny",
+      "process": "any",
+      "remote-domains": "getresponse.com"
+    },
+    {
+      "action": "deny",
+      "process": "any",
       "remote-domains": "intrefacefm.com"
     },
     {
