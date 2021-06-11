@@ -490,6 +490,16 @@
     {
       "action": "deny",
       "process": "any",
+      "remote-domains": "moosend.com"
+    },
+    {
+      "action": "deny",
+      "process": "any",
+      "remote-domains": "msnd36.com"
+    },
+    {
+      "action": "deny",
+      "process": "any",
       "remote-domains": "mxpnl.com"
     },
     {
@@ -761,6 +771,16 @@
       "action": "deny",
       "process": "any",
       "remote-domains": "tklink.ru"
+    },
+    {
+      "action": "deny",
+      "process": "any",
+      "remote-domains": "topkickstarterprojects.com"
+    },
+    {
+      "action": "deny",
+      "process": "any",
+      "remote-domains": "trendsender.com"
     },
     {
       "action": "deny",
