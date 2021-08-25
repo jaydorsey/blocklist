@@ -850,6 +850,11 @@
     {
       "action": "deny",
       "process": "any",
+      "remote-domains": "whitesourcesoftware.com"
+    },
+    {
+      "action": "deny",
+      "process": "any",
       "remote-domains": "whwtgerhave.xyz"
     },
     {
