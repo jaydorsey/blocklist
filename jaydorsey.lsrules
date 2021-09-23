@@ -10,6 +10,11 @@
     {
       "action": "deny",
       "process": "any",
+      "remote-domains": "hotjar.com"
+    },
+    {
+      "action": "deny",
+      "process": "any",
       "remote-domains": "getresponse.com"
     },
     {
