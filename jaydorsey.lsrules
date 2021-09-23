@@ -1,941 +1,192 @@
 {
-  "description": "Jay Dorsey's Little Snitch Block List",
   "name": "Jay Dorsey's Little Snitch Block List",
-  "rules": [
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "marcosmora.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "hotjar.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "getresponse.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "intrefacefm.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "specialattributes.s3.amazonaws.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "mobiletraits.s3.amazonaws.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "casa"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "buysub.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "sup24x7.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "vadrugpills.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "6in1car.bid"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "abacnet.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "abfakerman.ir"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "ac.th"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "acidereflux-hq.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "acronelektronik.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "altinkayalar.net"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "applyists.net"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "arcadiia.monster"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "asesorespericiales.es"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "astrodyne.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "battery4uk.co.uk"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "beautifulaerialimages.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "bensholk.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "blumsssj.bid"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "business.site"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "buysub.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "campaign-view.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "canvaasse.us"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "casinobonusguiden.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "cdsfulfillment.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "citizenday.ru"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "club-internet.fr"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "cnr.it"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "consensu.org"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "crfnn8.us"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "crowdsignal.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "crownpeak.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "dateme.su"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "deblin.pl"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "degger.pro"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "doubleclick.net"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "drmader.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "easy-learning-guitar.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "emltrk.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "esclick.me"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "eskuvoshonlap.hu"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "etinet.it"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "everydayhealth.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "evidon.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "exct.net"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "facebook.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "facebook.net"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "fredplaisanceaccastillage.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "fungusere.pro"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "gentechbulksms.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "getresponse.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "gipsermalerschweiz.ch"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "growhelthnow.xyz"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "guggigguide.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "hackerbook.io"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "halison.net"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "hamamvam.ru"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "healthinfu.bid"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "herbalife247.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "hoperfect.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "hulu.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "developreference.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "hvcsprng.bid"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "hydrowaterr.bid"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "i-harness.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "ilifedigital.solutions"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "ilovesamples.pro"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "imtriathlete.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "integracionamazonica.pe"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "invigorat3x.pro"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "khabarabad.ir"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "kibey.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "leffltr.us"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "livrsolun.bid"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "lntrnn.bid"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "losstwy.bid"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "loveskin.info"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "ma-nouvelle-piscine.fr"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "mail2edwin.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "mail2sandy.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "maillist-manage.eu"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "mangalbasi.net"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "marketpresage.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "maternityweek.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "medecre.bid"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "medicarpro.bid"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "medjoo.ir"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "memr3yhck.pro"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "mixingmolder.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "mixpanel.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "mkertgs.us"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "mornotlar.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "moosend.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "msnd36.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "mxpnl.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "mydelphi.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "mylittle.link"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "naftometgroup.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "neutropenia.ca"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "oath.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "ofrlobr.us"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "omnitelvodafone.it"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "oipapio.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "paleocoobouk.bid"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "pardot.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "pearlv.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "pegsys.net"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "peoplegas.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "persgift.bid"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "pinboard.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "pinkescort.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "pinterest.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "polldaddy.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "prntscr.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "procurement-india.org"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "proposecapital.site"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "qq.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "qualtrics.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "quora.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "rgrowhairfast.bid"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "resultsmail.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "roofngsrvey.monster"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "ruby-forum.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "salesmachine.io"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "scorecardresearch.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "scribol.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "segment.io"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "sessionwek.xyz"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "shahrtdc.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "sirums.ac.ir"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "sleepingyung.us"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "slepdatn.bid"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "snorcureing.us"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "sophrologie-bressaclemaitre.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "steemfoxy.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "stopearnoice.info"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "surbibalofr.us"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "survivibalwatch.us"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "survyva.us"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "talegacapital.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "taohl.top"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "tecwalks.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "tedsewood.us"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "tell-your-friend.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "tempsite.ws"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "textadwords.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "timshreopt.xyz"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "tjhtyt.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "tklink.ru"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "topkickstarterprojects.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "trendsender.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "trumpcoinn.bid"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "u.to"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "minkatu.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "vprza.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "udkcrj.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "vendepublicidade.com.br"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "viewforclos.pro"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "vinoxcozinhas.com.br"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "waistholstter.bid"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "walkme.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "wanadoo.fr"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "webkibris.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "whishlesrvivl.bid"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "whitesourcesoftware.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "whwtgerhave.xyz"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "wingmanmidev.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "yandex.com"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "bid"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "ch"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "com.br"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "hu"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "ir"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "link"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "me"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "monster"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "ru"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "solutions"
-    },
-    {
-      "action": "deny",
-      "process": "any",
-      "remote-domains": "th"
-    },
-    {
-      "action": "allow",
-      "process": "any",
-      "remote-domains": "rocket-science.ru"
-    },
-    {
-      "action": "allow",
-      "process": "any",
-      "remote-domains": "id.me"
-    }
+  "description": "Jay Dorsey's Little Snitch Block List",
+  "process": "any",
+  "denied-remote-domains": [
+    "6in1car.bid",
+    "abacnet.com",
+    "abfakerman.ir",
+    "ac.th",
+    "acidereflux-hq.com",
+    "acronelektronik.com",
+    "altinkayalar.net",
+    "applyists.net",
+    "arcadiia.monster",
+    "asesorespericiales.es",
+    "astrodyne.com",
+    "battery4uk.co.uk",
+    "beautifulaerialimages.com",
+    "bensholk.com",
+    "bid",
+    "blumsssj.bid",
+    "business.site",
+    "buysub.com",
+    "campaign-view.com",
+    "canvaasse.us",
+    "casa",
+    "casinobonusguiden.com",
+    "cdsfulfillment.com",
+    "ch",
+    "citizenday.ru",
+    "club-internet.fr",
+    "cnr.it",
+    "com.br",
+    "consensu.org",
+    "crfnn8.us",
+    "crowdsignal.com",
+    "crownpeak.com",
+    "dateme.su",
+    "deblin.pl",
+    "degger.pro",
+    "developreference.com",
+    "doubleclick.net",
+    "drmader.com",
+    "easy-learning-guitar.com",
+    "emltrk.com",
+    "esclick.me",
+    "eskuvoshonlap.hu",
+    "etinet.it",
+    "everydayhealth.com",
+    "evidon.com",
+    "exct.net",
+    "facebook.com",
+    "facebook.net",
+    "fredplaisanceaccastillage.com",
+    "fungusere.pro",
+    "gentechbulksms.com",
+    "getresponse.com",
+    "gipsermalerschweiz.ch",
+    "growhelthnow.xyz",
+    "guggigguide.com",
+    "hackerbook.io",
+    "halison.net",
+    "hamamvam.ru",
+    "healthinfu.bid",
+    "herbalife247.com",
+    "hoperfect.com",
+    "hotjar.com",
+    "hu",
+    "hulu.com",
+    "hvcsprng.bid",
+    "hydrowaterr.bid",
+    "i-harness.com",
+    "id.me",
+    "ilifedigital.solutions",
+    "ilovesamples.pro",
+    "imtriathlete.com",
+    "integracionamazonica.pe",
+    "intrefacefm.com",
+    "invigorat3x.pro",
+    "ir",
+    "khabarabad.ir",
+    "kibey.com",
+    "leffltr.us",
+    "link",
+    "livrsolun.bid",
+    "lntrnn.bid",
+    "losstwy.bid",
+    "loveskin.info",
+    "ma-nouvelle-piscine.fr",
+    "mail2edwin.com",
+    "mail2sandy.com",
+    "maillist-manage.eu",
+    "mangalbasi.net",
+    "marcosmora.com",
+    "marketpresage.com",
+    "maternityweek.com",
+    "me",
+    "medecre.bid",
+    "medicarpro.bid",
+    "medjoo.ir",
+    "memr3yhck.pro",
+    "minkatu.com",
+    "mixingmolder.com",
+    "mixpanel.com",
+    "mkertgs.us",
+    "mobiletraits.s3.amazonaws.com",
+    "monster",
+    "moosend.com",
+    "mornotlar.com",
+    "msnd36.com",
+    "mxpnl.com",
+    "mydelphi.com",
+    "mylittle.link",
+    "naftometgroup.com",
+    "neutropenia.ca",
+    "oath.com",
+    "ofrlobr.us",
+    "oipapio.com",
+    "omnitelvodafone.it",
+    "paleocoobouk.bid",
+    "pardot.com",
+    "pearlv.com",
+    "pegsys.net",
+    "peoplegas.com",
+    "persgift.bid",
+    "pinboard.com",
+    "pinkescort.com",
+    "pinterest.com",
+    "polldaddy.com",
+    "prntscr.com",
+    "procurement-india.org",
+    "proposecapital.site",
+    "qq.com",
+    "qualtrics.com",
+    "quora.com",
+    "resultsmail.com",
+    "rgrowhairfast.bid",
+    "rocket-science.ru",
+    "roofngsrvey.monster",
+    "ru",
+    "ruby-forum.com",
+    "salesmachine.io",
+    "scorecardresearch.com",
+    "scribol.com",
+    "segment.io",
+    "sessionwek.xyz",
+    "shahrtdc.com",
+    "sirums.ac.ir",
+    "sleepingyung.us",
+    "slepdatn.bid",
+    "snorcureing.us",
+    "solutions",
+    "sophrologie-bressaclemaitre.com",
+    "specialattributes.s3.amazonaws.com",
+    "steemfoxy.com",
+    "stopearnoice.info",
+    "sup24x7.com",
+    "surbibalofr.us",
+    "survivibalwatch.us",
+    "survyva.us",
+    "talegacapital.com",
+    "taohl.top",
+    "tecwalks.com",
+    "tedsewood.us",
+    "tell-your-friend.com",
+    "tempsite.ws",
+    "textadwords.com",
+    "th",
+    "timshreopt.xyz",
+    "tjhtyt.com",
+    "tklink.ru",
+    "topkickstarterprojects.com",
+    "trendsender.com",
+    "trumpcoinn.bid",
+    "u.to",
+    "udkcrj.com",
+    "vadrugpills.com",
+    "vendepublicidade.com.br",
+    "viewforclos.pro",
+    "vinoxcozinhas.com.br",
+    "vprza.com",
+    "waistholstter.bid",
+    "walkme.com",
+    "wanadoo.fr",
+    "webkibris.com",
+    "whishlesrvivl.bid",
+    "whitesourcesoftware.com",
+    "whwtgerhave.xyz",
+    "wingmanmidev.com",
+    "yandex.com"
   ]
 }
