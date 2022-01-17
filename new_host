@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+echo "Adding $1";
+echo "0.0.0.0 $1" >> hosts | sort -u hosts -o hosts
+jq --arg value "$1" '."denied-remote-domains" |= . + [$value]' jaydorsey.lsrules > tmp.json && mv tmp.json jaydorsey.lsrules
+echo "Added $1"
