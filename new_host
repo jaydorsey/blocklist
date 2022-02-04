@@ -2,5 +2,10 @@
 
 echo "Adding $1";
 echo "0.0.0.0 $1" >> hosts | sort -u hosts -o hosts
+# Append
 jq --arg value "$1" '."denied-remote-domains" |= . + [$value]' jaydorsey.lsrules > tmp.json && mv tmp.json jaydorsey.lsrules
+# Sort & unique
+jq '."denied-remote-domains" |= unique' jaydorsey.lsrules > tmp.json && mv tmp.json jaydorsey.lsrules
+# cat jaydorsey.lsrules | jq '."denied-remote-domains" |= unique' jaydorsey.lsrules > jaydorsey.lsrules
+
 echo "Added $1"
