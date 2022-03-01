@@ -1,11 +1,13 @@
 #!/usr/bin/env bash
 
-echo "Adding $1";
-echo "0.0.0.0 $1" >> hosts | sort -u hosts -o hosts
+url=`echo $1 | sed -e 's|^[^/]*//||' -e 's|/.*$||' -e 's|www\.||'`
+
+echo "Adding $url";
+echo "0.0.0.0 $url" >> hosts | sort -u hosts -o hosts
 # Append
-jq --arg value "$1" '."denied-remote-domains" |= . + [$value]' jaydorsey.lsrules > tmp.json && mv tmp.json jaydorsey.lsrules
+jq --arg value "$url" '."denied-remote-domains" |= . + [$value]' jaydorsey.lsrules > tmp.json && mv tmp.json jaydorsey.lsrules
 # Sort & unique
 jq '."denied-remote-domains" |= unique' jaydorsey.lsrules > tmp.json && mv tmp.json jaydorsey.lsrules
 # cat jaydorsey.lsrules | jq '."denied-remote-domains" |= unique' jaydorsey.lsrules > jaydorsey.lsrules
 
-echo "Added $1"
+echo "Added $url"
