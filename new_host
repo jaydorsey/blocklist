@@ -1,12 +1,18 @@
 #!/usr/bin/env bash
 
-url=`echo $1 | sed -e 's|^[^/]*//||' -e 's|/.*$||' -e 's|www\.||'`
+# Cleanup of the URL
+# TODO: Fix this to include the www prefix for a domain always, by default
+url=`echo $1 | sed -e 's|^[^/]*//||' -e 's|/.*$||'`
 
 echo "Adding $url";
+
+# Add to the hosts file, used by pi-hole
 echo "0.0.0.0 $url" >> hosts | sort -u hosts -o hosts
-# Append
+
+# Append to the little snitch file
 jq --arg value "$url" '."denied-remote-domains" |= . + [$value]' jaydorsey.lsrules > tmp.json && mv tmp.json jaydorsey.lsrules
-# Sort & unique
+
+# Sort & unique little snitch file
 jq '."denied-remote-domains" |= unique' jaydorsey.lsrules > tmp.json && mv tmp.json jaydorsey.lsrules
 # cat jaydorsey.lsrules | jq '."denied-remote-domains" |= unique' jaydorsey.lsrules > jaydorsey.lsrules
 
