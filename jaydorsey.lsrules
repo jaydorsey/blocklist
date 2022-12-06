@@ -3,6 +3,7 @@
   "description": "Jay Dorsey's Little Snitch Block List",
   "process": "any",
   "denied-remote-domains": [
+    "*.bellafashion.fr",
     "120v.ac",
     "1sh4mh7dmrhxlh75uxws.moretrending.store",
     "2021.bambouland.fr",
@@ -236,6 +237,7 @@
     "quora.com",
     "r.us-east-1.awstrack.me",
     "re-9cj87x.bellafashion.fr",
+    "re-snp788.bellafashion.fr",
     "redi.merrittcredit.com",
     "redic.rwbcode.com",
     "refinery29.com",
